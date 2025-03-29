@@ -7,13 +7,8 @@
 
 // myFunction(); //function call
 
-// function mFunction(msg){
+// function mFunction(sg){
 //     console.log(msg);
 // }
 // mFunction("heyyyggsss");
 
-
-function vowels(str){
-    str = 
-    
-}
